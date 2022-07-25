@@ -1,3 +1,5 @@
+# Stage 3/5: Train models with default settings
+
 We are ready to train our models. In this stage, you need to find the best algorithm that can identify handwritten digits. 
 Refer to the following algorithms: <code>K-nearest Neighbors</code>, <code>Decision Tree</code>, <code>Logistic Regression</code>, and <code>Random Forest</code>. \
 In this stage, you need to train these four classifiers with default parameters. 
